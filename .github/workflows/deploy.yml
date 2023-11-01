@@ -17,4 +17,4 @@ jobs:
           KEY: ${{ secrets.SSH_KEY }}
         with:
           source: "*"
-          target: "/path/in/your/server
+          target: "/path/in/your/server"
